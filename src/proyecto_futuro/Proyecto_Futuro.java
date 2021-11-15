@@ -1,6 +1,9 @@
 
 package proyecto_futuro;
 
+/*
+ @autor Carlos Perez
+ */
 
 public class Proyecto_Futuro {
 
